@@ -1,3 +1,3 @@
 const sum = require('./sum');
 
-console.log('asdf');
+console.log(sum(3, 9));
